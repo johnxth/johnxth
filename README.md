@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @johnxth
-- 👀 I’m interested in Web programing
-- 🌱 I’m currently learning html
-- 💞️ I’m looking to collaborate on any project based on web programing
-- 📫 How to reach me ... yes you can contact me by send me an email to oneofmilions@gmail.com ()
+- 👋 Hi, I’m Eksansilus
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning Manual QA
+- 💞️ I’m looking to collaborate on any project about Quality Assurance
+- 📫 How to reach me ... yes you can contact me by send me an email to eksansilus@gmail.com ()
 
 <!---
 johnxth/johnxth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
