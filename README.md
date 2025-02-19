@@ -14,9 +14,9 @@
 📌 **Teaching & Training:** E-Rapor, IT Support, Robotics  
 
 ### 📫 **Let's Connect!**  
-📧 Email: eksansilus@gmail.com
-💼 LinkedIn: linkedin.com/in/johnxth(#)  
-🔗 GitHub: github.com/johnxth(#)  
+📧 Email: [eksansilus@gmail.com]
+💼 LinkedIn: [linkedin.com/in/johnxth](#)  
+🔗 GitHub: [github.com/johnxth](#)  
 
 ---
 
