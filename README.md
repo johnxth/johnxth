@@ -1,10 +1,23 @@
-- 👋 Hi, I’m Eksansilus
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Manual QA
-- 💞️ I’m looking to collaborate on any project about Quality Assurance
-- 📫 How to reach me ... yes you can contact me by send me an email to eksansilus@gmail.com ()
+# 💻 Hi there! I'm Eksansilus 👋  
+## 🎯 Quality Assurance | Educator | IT Enthusiast  
 
-<!---
-johnxth/johnxth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🔎 **About Me**  
+- 🎓 Graduate of **Manual Quality Assurance Tester** course  
+- 🧑‍🏫 Former teacher at **SMK Negeri 1 Mandor** and **SMK Maniamas Ngabang**  
+- ⚡ Skills: **Software Testing, System Administration, Networking, and Robotics**  
+- 🔍 Interested in **QA Engineering, Automation Testing, and DevOps**  
+
+### 🚀 **Skills & Tools**  
+💾 **Quality Assurance:** Test Case Writing, Bug Reporting, Manual Testing  
+⚙️ **Tech Stack:** Linux, Proxmox, Debian, ZeroTier, Tailscale  
+📡 **Networking:** VPN, Server Administration  
+📌 **Teaching & Training:** E-Rapor, IT Support, Robotics  
+
+### 📫 **Let's Connect!**  
+📧 Email: eksansilus@gmail.com
+💼 LinkedIn: linkedin.com/in/johnxth(#)  
+🔗 GitHub: github.com/johnxth(#)  
+
+---
+
+💡 _I'm always open to collaborating on QA projects and IT innovations!_
