@@ -12,7 +12,8 @@
 - **Teaching & Training:** E-Rapor, IT Support, Robotics  
 
 ## 💻 Tech Stack:
-- **OS:** Debian, Ubuntu, Linux Mint, Proxmox, Kali
+### 💻 Operating System
+- **OS:** Debian, Ubuntu, Linux Mint, Proxmox, Kali, Windows
 - **Software:** ZeroTier, Tailscale, R-Admin VPN, Anydesk
 
 ## 🛠️ My Favourite tools
