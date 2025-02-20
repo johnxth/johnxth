@@ -60,6 +60,14 @@
 💼 LinkedIn: [linkedin.com/in/johnxth](#)  
 🔗 GitHub: [github.com/johnxth](#)  
 
+<p align="left">
+<a href="https://linkedin.com/in/johnxth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="johnxth" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/johnxth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="johnxth" height="30" width="40" /></a>
+<a href="https://fb.com/johnxth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="johnxth" height="30" width="40" /></a>
+<a href="https://instagram.com/eksansilus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eksansilus" height="30" width="40" /></a>
+<a href="https://discord.gg/eksansilus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="eksansilus" height="30" width="40" /></a>
+</p>
+
 ---
 
 💡 _I'm always open to collaborating on QA projects and IT innovations!_
