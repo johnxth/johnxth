@@ -15,6 +15,10 @@
 ### 💻 Operating System
 
 ![Debian](https://img.shields.io/badge/debian-red?style=for-the-badge&logo=debian&logoColor=orange&color=darkred)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white)
+![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?logo=proxmox&logoColor=fff&style=flat)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff&style=flat)
 
 - **OS:** Debian, Ubuntu, Linux Mint, Proxmox, Kali, Windows
 - **Software:** ZeroTier, Tailscale, R-Admin VPN, Anydesk
