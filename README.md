@@ -19,7 +19,7 @@
 ![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?logo=proxmox&logoColor=fff&style=for-the-badge)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff&style=for-the-badge)
-![Windows](https://img.shields.io/badge/os-windows-blue?style=for-the-badge)
+![Windows](https://img.shields.io/badge/windows-blue?style=for-the-badge)
 
 ### 💻 Software
 
