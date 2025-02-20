@@ -9,9 +9,13 @@
 
 ### 🚀 **Skills & Tools**  
 💾 **Quality Assurance:** Test Case Writing, Bug Reporting, Manual Testing  
-⚙️ **Tech Stack:** Linux, Proxmox, Debian, ZeroTier, Tailscale  
+
 📡 **Networking:** VPN, Server Administration  
 📌 **Teaching & Training:** E-Rapor, IT Support, Robotics  
+
+# 💻 Tech Stack:
+⚙️ **OS:** Debian, Ubuntu, Linux Mint, Proxmox, Kali  
+⚙️ **Software:** ZeroTier, Tailscale, R-Admin VPN, Anydesk
 
 ## 🛠️ My Favourite tools
 
