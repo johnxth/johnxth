@@ -13,6 +13,9 @@
 
 ## 💻 Tech Stack:
 ### 💻 Operating System
+
+![Debian](https://img.shields.io/badge/debian-red?style=for-the-badge&logo=debian&logoColor=orange&color=darkred)
+
 - **OS:** Debian, Ubuntu, Linux Mint, Proxmox, Kali, Windows
 - **Software:** ZeroTier, Tailscale, R-Admin VPN, Anydesk
 
