@@ -2,18 +2,18 @@
 ## 🎯 Quality Assurance | Educator | IT Enthusiast  
 
 ### 🔎 **About Me**  
-- 🎓 Graduate of **Manual Quality Assurance Tester** course  
-- 🧑‍🏫 Former teacher at **SMK Negeri 1 Mandor** and **SMK Maniamas Ngabang**  
-- 🔍 Interested in **QA Engineering, Automation Testing, and DevOps**  
+- Graduate of **Manual Quality Assurance Tester** course  
+- Former teacher at **SMK Negeri 1 Mandor** and **SMK Maniamas Ngabang**  
+- Interested in **QA Engineering, Automation Testing, and DevOps**  
 
 ### 🚀 **Skills & Tools**  
-💾 **Quality Assurance:** Test Case Writing, Bug Reporting, Manual Testing  
-📡 **Networking:** VPN, Network System Administration  
-📌 **Teaching & Training:** E-Rapor, IT Support, Robotics  
+- **Quality Assurance:** Test Case Writing, Bug Reporting, Manual Testing  
+- **Networking:** VPN, Network System Administration  
+- **Teaching & Training:** E-Rapor, IT Support, Robotics  
 
 ## 💻 Tech Stack:
-⚙️ **OS:** Debian, Ubuntu, Linux Mint, Proxmox, Kali  
-⚡ **Software:** ZeroTier, Tailscale, R-Admin VPN, Anydesk
+- **OS:** Debian, Ubuntu, Linux Mint, Proxmox, Kali
+- **Software:** ZeroTier, Tailscale, R-Admin VPN, Anydesk
 
 ## 🛠️ My Favourite tools
 
