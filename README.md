@@ -21,12 +21,6 @@
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff&style=for-the-badge)
 ![Windows](https://img.shields.io/badge/windows-blue?style=for-the-badge)
 
-### 💻 Software
-
-![ZeroTier](https://img.shields.io/badge/ZeroTier-FFB441?logo=zerotier&logoColor=fff&style=for-the-badge)
-![Tailscale](https://img.shields.io/badge/Tailscale-242424?logo=tailscale&logoColor=fff&style=for-the-badge)
-![AnyDesk Badge](https://img.shields.io/badge/AnyDesk-EF443B?logo=anydesk&logoColor=fff&style=for-the-badge)
-
 ### 👨‍💻 Programming languages
 
 ![Bash](https://img.shields.io/badge/Bash-121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -64,6 +58,9 @@
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) 
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 ![OBS Studio](https://img.shields.io/badge/-OBS%20Studio-302E31?style=for-the-badge&logo=obs-studio&logoColor=white)
+![ZeroTier](https://img.shields.io/badge/ZeroTier-FFB441?logo=zerotier&logoColor=fff&style=for-the-badge)
+![Tailscale](https://img.shields.io/badge/Tailscale-242424?logo=tailscale&logoColor=fff&style=for-the-badge)
+![AnyDesk Badge](https://img.shields.io/badge/AnyDesk-EF443B?logo=anydesk&logoColor=fff&style=for-the-badge)
 
 ---
 
