@@ -68,14 +68,6 @@
 ---
 
 ### 📫 **Let's Connect!**  
-<p align="left">
-<a href="https://linkedin.com/in/johnxth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="johnxth" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/johnxth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="johnxth" height="30" width="40" /></a>
-<a href="https://fb.com/johnxth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="johnxth" height="30" width="40" /></a>
-<a href="https://instagram.com/eksansilus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eksansilus" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/johnxth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="johnxth" height="30" width="40" /></a>
-<a href="https://discord.gg/eksansilus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="eksansilus" height="30" width="40" /></a>
-</p>
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/eksansilus) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/johnxth) 
