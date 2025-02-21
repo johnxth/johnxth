@@ -25,9 +25,7 @@
 
 ![ZeroTier](https://img.shields.io/badge/ZeroTier-FFB441?logo=zerotier&logoColor=fff&style=for-the-badge)
 ![Tailscale](https://img.shields.io/badge/Tailscale-242424?logo=tailscale&logoColor=fff&style=for-the-badge)
-![AnyDesk Badge](https://img.shields.io/badge/AnyDesk-EF443B?logo=anydesk&logoColor=fff&style=flat)
-
-## 🛠️ My Favourite tools
+![AnyDesk Badge](https://img.shields.io/badge/AnyDesk-EF443B?logo=anydesk&logoColor=fff&style=for-the-badge)
 
 ### 👨‍💻 Programming languages
 
