@@ -1,5 +1,6 @@
 # 💻 Hi there! I'm Eksansilus 👋  
 ## 🎯 Quality Assurance | Educator | IT Enthusiast  
+<img align="right" alt="GIF" src="https://github.com/johnxth/johnxth/blob/main/coding.gif?raw=true" width="408" height="318" />
 
 ### 🔎 **About Me**  
 - Graduate of **Manual Quality Assurance Tester** course  
