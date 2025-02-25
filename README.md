@@ -4,7 +4,8 @@
 ### 🔎 **About Me**  
 - Graduate of **Manual Quality Assurance Tester** course  
 - Former teacher at **SMK Negeri 1 Mandor** and **SMK Maniamas Ngabang**  
-- Interested in **QA Engineering, Automation Testing, and DevOps**  
+- Interested in **QA Engineering, Automation Testing, and DevOps**
+- 📝 [Resume](https://johnxth.github.io/mqa-cv-eksansilus/).
 
 ### 🚀 **Skills & Tools**  
 - **Quality Assurance:** Test Case Writing, Bug Reporting, Manual Testing  
