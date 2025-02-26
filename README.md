@@ -49,20 +49,20 @@
 
 ### 💻 Software and tools
 
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
-![InteliJ IDEA](https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&style=for-the-badge)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) 
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) 
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-![OBS Studio](https://img.shields.io/badge/-OBS%20Studio-302E31?style=for-the-badge&logo=obs-studio&logoColor=white)
-![ZeroTier](https://img.shields.io/badge/ZeroTier-FFB441?logo=zerotier&logoColor=fff&style=for-the-badge)
-![Tailscale](https://img.shields.io/badge/Tailscale-242424?logo=tailscale&logoColor=fff&style=for-the-badge)
-![AnyDesk Badge](https://img.shields.io/badge/AnyDesk-EF443B?logo=anydesk&logoColor=fff&style=for-the-badge)
+[![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
+[![InteliJ IDEA](https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&style=for-the-badge)](https://www.jetbrains.com/idea/)
+[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)](https://httpd.apache.org/)
+[![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)](https://www.adobe.com/id_id/products/photoshop.html)
+[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com/)
+[![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)](https://inkscape.org/)
+[![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)](https://www.cisco.com/c/en_id/index.html)
+[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/)
+[![OBS Studio](https://img.shields.io/badge/-OBS%20Studio-302E31?style=for-the-badge&logo=obs-studio&logoColor=white)](https://obsproject.com/)
+[![ZeroTier](https://img.shields.io/badge/ZeroTier-FFB441?logo=zerotier&logoColor=fff&style=for-the-badge)](https://www.zerotier.com/)
+[![Tailscale](https://img.shields.io/badge/Tailscale-242424?logo=tailscale&logoColor=fff&style=for-the-badge)](https://tailscale.com/)
+[![AnyDesk Badge](https://img.shields.io/badge/AnyDesk-EF443B?logo=anydesk&logoColor=fff&style=for-the-badge)](https://anydesk.com/en)
 
 ---
 
